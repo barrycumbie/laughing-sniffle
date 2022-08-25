@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "name": "laughing-sniffle",
+  "version": "1.0.0",
+  "main": "hello-node.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barrycumbie/laughing-sniffle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barrycumbie/laughing-sniffle/issues"
+  },
+  "homepage": "https://github.com/barrycumbie/laughing-sniffle#readme",
+  "keywords": [],
+  "description": ""
 }
