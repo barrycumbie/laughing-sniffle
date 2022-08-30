@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+
+</head>
+
+<body>
+
+    <h1>Barry's Hello Page</h1>
+
+    <li>Hello from Node</li>
+    <li>Hello from Express</li>
+    <li>Hello from Heroku</li>
+
+    <hr/>
+
+    <form method="post" action="/saveToNode">
+        <label>do that data!</label>
+        <input type="text" name="thatData">
+        <input type="submit" value="send to node via express">
+    </form>
+
+    <p> hi
+        <%=thatData%>
+    </p>
+
+
+</body>
+
+</html>
